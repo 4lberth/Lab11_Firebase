@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880394705518",
+    "project_id": "teo11firebase",
+    "storage_bucket": "teo11firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880394705518:android:ff2de485110d1cc47ae47f",
+        "android_client_info": {
+          "package_name": "com.tecsup.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_LhnPuvRU1oDlfapdyG-pxhAtXW8c9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
